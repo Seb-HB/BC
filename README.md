@@ -1,1 +1,1 @@
-Business case snas flex, css simple
+Business case sans flex, CSS simple
